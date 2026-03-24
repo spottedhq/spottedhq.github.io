@@ -28,6 +28,8 @@ params:
   socialIcons:
     - name: tiktok
       url: "https://tiktok.com/@spottedhq"
+    - name: pinterest
+      url: "https://pinterest.com/spottedhq/"
     - name: email
       url: "mailto:hello@spottedhq.com"
 
