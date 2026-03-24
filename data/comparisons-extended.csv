@@ -1,0 +1,11 @@
+tool_a,tool_b,category,tags,tool_a_price,tool_b_price,tool_a_free,tool_b_free,tool_a_best_for,tool_b_best_for,tool_a_link,tool_b_link
+Notion AI,Clickup AI,ai-tools,"productivity,project-management,ai",$10/mo + $10 AI,$7/mo,Yes (limited AI),Yes (limited AI),flexible docs and wikis with AI built in,task-heavy teams wanting AI in project management,#,#
+Riverside,Descript,ai-tools,"podcast,recording,editing",$15/mo,$24/mo,Yes (2h recording),Yes (limited),remote podcast and video recording,text-based editing for podcasters,#,#
+Opus Clip,Vizard,ai-tools,"video,clips,repurpose",$15/mo,$16/mo,Yes (limited),Yes (limited),auto-clipping long videos into viral shorts,repurposing webinars and long content,#,#
+Synthesia,HeyGen,ai-tools,"avatar,video,ai-presenter",$22/mo,$24/mo,Yes (1 video),Yes (1 video),training videos and corporate content,marketing videos with AI avatars,#,#
+Typeform,Tally,saas,"forms,surveys,data",$25/mo,Free - $29/mo,Yes (limited),Yes (unlimited forms),beautiful interactive forms with logic,free-first simple forms and surveys,#,#
+Vercel,Netlify,saas,"hosting,deployment,jamstack",Free - $20/mo,Free - $19/mo,Yes (generous),Yes (generous),Next.js apps and edge functions,static sites and serverless functions,#,#
+Linear,Jira,saas,"project-management,engineering,issues",$8/mo,$8/mo,Yes (small teams),Yes (10 users),fast modern issue tracking for dev teams,enterprise project management with deep integrations,#,#
+Lemon Squeezy,Gumroad,saas,"payments,digital-products,creators",$0 + 5% + 50¢,$0 + 10%,Yes (pay as you go),Yes (pay as you go),selling digital products with built-in tax compliance,simple no-fuss digital product sales,#,#
+Stripe,Paddle,saas,"payments,billing,subscriptions",2.9% + 30¢,5% + 50¢,Pay as you go,Pay as you go,flexible payment infrastructure for developers,SaaS billing with automatic tax handling,#,#
+Framer,Squarespace,saas,"website,design,no-code",$5/mo,$16/mo,Yes (1 project),14-day trial,modern animated marketing sites,traditional business websites and e-commerce,#,#

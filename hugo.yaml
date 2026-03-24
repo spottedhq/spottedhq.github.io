@@ -1,0 +1,78 @@
+baseURL: "https://spottedhq.github.io/"
+languageCode: "en-us"
+title: "SpottedHQ — Discover Tools & Products That Actually Work"
+theme: "PaperMod"
+
+paginate: 12
+
+params:
+  env: production
+  description: "Honest comparisons of AI tools, SaaS products, and trending finds. No fluff — just what works."
+  author: "SpottedHQ"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowToc: true
+  TocOpen: false
+  comments: false
+
+  homeInfoParams:
+    Title: "Find What Actually Works"
+    Content: >
+      Honest, no-BS comparisons of AI tools, SaaS products, and trending finds.
+      We test so you don't waste money.
+
+  socialIcons:
+    - name: tiktok
+      url: "https://tiktok.com/@spottedhq"
+    - name: email
+      url: "mailto:hello@spottedhq.com"
+
+  assets:
+    favicon: "/favicon.ico"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: ai-tools
+      name: AI Tools
+      url: /categories/ai-tools/
+      weight: 10
+    - identifier: saas
+      name: SaaS
+      url: /categories/saas/
+      weight: 20
+    - identifier: trending
+      name: Trending Products
+      url: /categories/trending/
+      weight: 30
+    - identifier: newsletter
+      name: Newsletter
+      url: /newsletter/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags

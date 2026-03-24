@@ -1,0 +1,25 @@
+tool_a,tool_b,category,tags,tool_a_price,tool_b_price,tool_a_free,tool_b_free,tool_a_best_for,tool_b_best_for,tool_a_link,tool_b_link
+Notion,Coda,ai-tools,"productivity,docs,workspace",$10/mo,$10/mo,Yes (generous),Yes,all-in-one workspace with AI,docs-first teams that love automation,#,#
+Jasper,Copy.ai,ai-tools,"copywriting,ai-writing,marketing",$49/mo,$49/mo,7-day trial,Yes (2000 words/mo),marketing teams and agencies,solopreneurs and small teams,#,#
+Grammarly,ProWritingAid,ai-tools,"writing,grammar,editing",$12/mo,$10/mo,Yes (basic),Yes (basic),everyday writing and email,long-form writers and authors,#,#
+Midjourney,DALL-E 3,ai-tools,"image,ai-art,design",$10/mo,Included with ChatGPT Plus,No,Yes (via ChatGPT),artistic and creative image generation,quick and accurate image prompts,#,#
+Descript,CapCut,ai-tools,"video,editing,content",$24/mo,Free,Yes (limited),Yes (full),podcast and video editors who think in text,social media content creators,#,#
+Beehiiv,Substack,saas,"newsletter,email,publishing",Free - $99/mo,Free (10% rev share),Yes,Yes,creators who want to build a business,writers who want simplicity,#,#
+Leadpages,Carrd,saas,"landing-page,marketing,conversion",$49/mo,$19/yr,14-day trial,Yes (basic),marketers who need A/B testing and analytics,simple one-page sites on a budget,#,#
+HubSpot,Brevo,saas,"crm,email,marketing",Free - $800/mo,Free - $25/mo,Yes (powerful CRM),Yes (300 emails/day),growing businesses that want an all-in-one platform,small businesses watching their budget,#,#
+Canva,Adobe Express,ai-tools,"design,graphics,social",$13/mo,$10/mo,Yes (generous),Yes,non-designers who need quick professional graphics,Adobe users who want a lighter tool,#,#
+ChatGPT Plus,Claude Pro,ai-tools,"llm,chatbot,productivity",$20/mo,$20/mo,Yes (GPT-4o mini),Yes (limited Claude),broad tool use and plugins,long documents and nuanced reasoning,#,#
+Cursor,GitHub Copilot,ai-tools,"coding,ide,developer",$20/mo,$10/mo,Yes (limited),No,AI-native coding with full codebase context,lightweight code suggestions in VS Code,#,#
+Perplexity,Google Gemini,ai-tools,"search,research,ai",$20/mo,Free - $20/mo,Yes (basic),Yes (generous),research-heavy tasks with cited sources,Google ecosystem users who want AI search,#,#
+Writesonic,Rytr,ai-tools,"writing,content,seo",$16/mo,$9/mo,Yes (10K words),Yes (10K chars/mo),SEO content at scale,budget-friendly short-form copy,#,#
+Loom,Tella,ai-tools,"video,screen-recording,async",$15/mo,$19/mo,Yes (25 videos),Yes (10 videos),async video messaging for teams,polished product demos and tutorials,#,#
+Zapier,Make,saas,"automation,integration,workflow",$20/mo,$9/mo,Yes (100 tasks/mo),Yes (1000 ops/mo),simple automations with huge app library,complex multi-step workflows on a budget,#,#
+Airtable,Notion,saas,"database,project-management,productivity",$20/mo,$10/mo,Yes (1000 records),Yes (generous),structured data and relational databases,flexible docs-meets-database workspace,#,#
+Webflow,Framer,saas,"website,design,no-code",$14/mo,$5/mo,Yes (2 projects),Yes (1 project),complex custom websites without code,fast modern landing pages with animations,#,#
+Mailchimp,ConvertKit,saas,"email,marketing,newsletter",$13/mo,$29/mo,Yes (500 contacts),Yes (1000 subscribers),e-commerce email with automations,creators and bloggers building an audience,#,#
+Figma,Canva,ai-tools,"design,ui,graphics",$15/mo,$13/mo,Yes (3 projects),Yes (generous),UI/UX designers and design teams,non-designers who need quick social graphics,#,#
+Eleven Labs,Play.ht,ai-tools,"tts,voiceover,audio",$5/mo,$31/mo,Yes (10K chars),Yes (12.5K chars),realistic AI voices for content creation,long-form audio and podcast generation,#,#
+Surfer SEO,Clearscope,saas,"seo,content,optimization",$89/mo,$170/mo,No,No,content writers optimizing for search rankings,enterprise teams with big content operations,#,#
+Semrush,Ahrefs,saas,"seo,marketing,analytics",$130/mo,$99/mo,Yes (limited),No,all-in-one marketing with SEO and PPC,backlink analysis and pure SEO research,#,#
+Otter.ai,Fireflies.ai,ai-tools,"transcription,meetings,notes",$17/mo,$18/mo,Yes (300 min/mo),Yes (800 min storage),live meeting notes and transcription,automated meeting summaries for teams,#,#
+Calendly,Cal.com,saas,"scheduling,meetings,booking",$10/mo,Free - $15/mo,Yes (1 event type),Yes (unlimited),simple scheduling that just works,open-source scheduling with full customization,#,#

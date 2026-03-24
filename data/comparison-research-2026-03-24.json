@@ -1,0 +1,857 @@
+{
+  "generated": "2026-03-24",
+  "note": "Pricing verified via web search March 2026. Always double-check official sites before publishing.",
+  "comparisons": [
+    {
+      "id": 1,
+      "tool_a": "Notion",
+      "tool_b": "Coda",
+      "category": "Productivity / Workspace",
+
+      "tool_a_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Unlimited pages and blocks for individual use, up to 10 guest invites, basic Notion AI trial, Notion Calendar, 5MB file upload limit"
+        },
+        "plus": {
+          "price": "$10/mo ($8/mo annual)",
+          "details": "Unlimited file uploads, 30-day version history, unlimited guests, unlimited blocks for teams"
+        },
+        "business": {
+          "price": "$20/mo ($15/mo annual)",
+          "details": "Notion AI included, private teamspaces, SAML SSO, 90-day page history, bulk PDF export"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "Advanced security and compliance, workspace analytics, audit log, SCIM provisioning, dedicated CSM"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Unlimited doc size for unshared docs, basic automations, formulas, connected tables, charts, Kanban boards, forms"
+        },
+        "pro": {
+          "price": "$12/mo ($10/mo annual) per Doc Maker",
+          "details": "Unlimited doc size for all docs, 30-day version history, hidden pages. Only Doc Makers are charged; editors and viewers are free"
+        },
+        "team": {
+          "price": "$36/mo ($30/mo annual) per Doc Maker",
+          "details": "More automations and Packs, doc protection, team collaboration features"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "SSO, enhanced admin controls, hands-on support, scalability features"
+        }
+      },
+
+      "tool_a_top_features": [
+        "All-in-one workspace: docs, wikis, databases, and project management in one tool",
+        "Notion AI built into every page for writing assistance, summaries, and Q&A",
+        "30,000+ community templates for almost any use case",
+        "Real-time collaboration with comments, mentions, and shared workspaces",
+        "Powerful linked databases with views (table, board, timeline, gallery, calendar)"
+      ],
+      "tool_b_top_features": [
+        "Docs that act like apps: deep formula engine turns documents into interactive tools",
+        "600+ native integrations via Packs (Jira, GitHub, Slack, etc.) with two-way data sync",
+        "Built-in automations: trigger-based workflows without third-party tools like Zapier",
+        "Only charges Doc Makers; editors and viewers are always free",
+        "Cross-doc functionality to link and sync data across multiple documents"
+      ],
+
+      "tool_a_pros": [
+        "Extremely intuitive interface with near-zero learning curve for basic use",
+        "Massive template ecosystem saves hours of setup time",
+        "Generous free tier for individuals (unlimited pages and blocks)",
+        "Notion AI adds writing, summarization, and Q&A natively across all content"
+      ],
+      "tool_b_pros": [
+        "Pricing model only charges Doc Makers, making it significantly cheaper for large teams with many viewers",
+        "Best-in-class automation and formula engine for building custom workflows",
+        "600+ native Packs eliminate the need for middleware like Zapier",
+        "Cross-doc capabilities allow powerful data linking across the workspace"
+      ],
+
+      "tool_a_cons": [
+        "No true offline mode; requires internet connection for full functionality",
+        "Can get slow with very large, complex databases",
+        "Notion AI is only fully included on Business and Enterprise plans"
+      ],
+      "tool_b_cons": [
+        "Steep learning curve, especially for formulas and Packs",
+        "Much smaller template library compared to Notion",
+        "Less polished mobile experience"
+      ],
+
+      "tool_a_best_for": "Teams and individuals who want an intuitive all-in-one workspace for docs, wikis, and project management with a huge template library.",
+      "tool_b_best_for": "Teams with builders and operators who need docs that function like custom apps, with deep automation and a pricing model that favors large teams.",
+
+      "quick_verdict": "Notion wins on ease of use, templates, and polish -- it is the better choice for most teams who need a clean, flexible workspace. Coda wins when you need documents that behave like software, with built-in automations and a formula engine that eliminates third-party tools. If your team has many viewers who do not create content, Coda's Doc Maker pricing model can save significantly."
+    },
+
+    {
+      "id": 2,
+      "tool_a": "Jasper",
+      "tool_b": "Copy.ai",
+      "category": "AI Writing / Copywriting",
+
+      "tool_a_pricing": {
+        "creator": {
+          "price": "$49/mo ($39/mo annual)",
+          "details": "1 seat, 1 Brand Voice, Jasper Chat, SEO mode, browser extension"
+        },
+        "pro": {
+          "price": "$69/mo ($59/mo annual) per seat",
+          "details": "3 Brand Voices, 10 Knowledge assets, collaboration features, art generation"
+        },
+        "business": {
+          "price": "Custom pricing",
+          "details": "Unlimited Brand Voices, API access, custom AI templates, advanced admin controls, dedicated support"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "1 seat, 2,000 words in Chat, basic AI models (GPT-3.5 and Claude 3), Brand Voice, Infobase"
+        },
+        "chat": {
+          "price": "$29/mo ($24/mo annual)",
+          "details": "Advanced AI models, unlimited Chat words, workflows"
+        },
+        "agents": {
+          "price": "$249/mo",
+          "details": "Up to 10 seats, 10K workflow credits/month, trainable content agents, everything in Chat plan"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "Usage-based custom plans, dedicated support, advanced security"
+        }
+      },
+
+      "tool_a_top_features": [
+        "Brand Voice training: learns your tone, style, and terminology from uploaded content",
+        "50+ marketing-specific templates (ads, emails, blogs, social posts)",
+        "SEO mode with SurferSEO integration for search-optimized content",
+        "Jasper Chat for conversational content generation with context awareness",
+        "Team collaboration with shared projects, brand voice controls, and usage analytics"
+      ],
+      "tool_b_top_features": [
+        "90+ content templates for short-form copy (ads, product descriptions, social posts)",
+        "Workflow automation: build multi-step AI content pipelines",
+        "Brand Voice and Infobase for consistent, brand-aligned output",
+        "Free tier with 2,000 words/month to test before committing",
+        "Trainable AI agents (on Agents plan) that automate entire content workflows"
+      ],
+
+      "tool_a_pros": [
+        "Best-in-class Brand Voice produces the most consistent, on-brand long-form output",
+        "SurferSEO integration makes it a strong choice for SEO content teams",
+        "Strong long-form article and blog post generation with logical structure",
+        "Purpose-built for marketing teams with shared projects and analytics"
+      ],
+      "tool_b_pros": [
+        "Free plan available (Jasper only offers a 7-day trial)",
+        "More affordable entry point at $29/mo vs Jasper's $49/mo",
+        "Larger template library (90+ vs 50+) covering more short-form use cases",
+        "Workflow automation goes beyond writing into multi-step business processes"
+      ],
+
+      "tool_a_cons": [
+        "No free plan; only a 7-day trial to evaluate",
+        "Significantly more expensive starting at $49/mo per seat",
+        "Can feel overkill for solopreneurs who only need quick copy"
+      ],
+      "tool_b_cons": [
+        "Long-form content quality trails Jasper, especially for blog posts and articles",
+        "Brand Voice training is less sophisticated than Jasper's",
+        "Team collaboration features are basic compared to Jasper's shared workspace"
+      ],
+
+      "tool_a_best_for": "Marketing teams and agencies that need consistently on-brand, long-form content with SEO optimization baked in.",
+      "tool_b_best_for": "Solopreneurs and small teams who need affordable, template-rich short-form copy generation with a useful free tier to start.",
+
+      "quick_verdict": "Jasper is the premium pick for marketing teams that need polished long-form content with strong brand consistency and SEO integration. Copy.ai is the better entry point -- it has a free plan, lower pricing, and more templates, making it ideal for short-form copy and budget-conscious creators. If brand voice and long-form quality matter most, invest in Jasper; if you want to start fast and cheap, Copy.ai wins."
+    },
+
+    {
+      "id": 3,
+      "tool_a": "Grammarly",
+      "tool_b": "ProWritingAid",
+      "category": "Writing Assistant / Grammar Checker",
+
+      "tool_a_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Basic grammar, spelling, and punctuation checks across all platforms"
+        },
+        "pro": {
+          "price": "$30/mo | $20/mo quarterly | $12/mo annual",
+          "details": "Formerly 'Premium'. Full-sentence rewrites, tone suggestions, unlimited AI edits, plagiarism detection, style guide, analytics"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "SSO/SAML, SCIM, admin console, analytics dashboard, style guides, priority support"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "500-word limit per check, 2 report runs/day, 10 rephrases/day, 3 AI Sparks"
+        },
+        "premium": {
+          "price": "$30/mo | $10/mo annual ($120/yr) | $399 lifetime",
+          "details": "Unlimited word count, 25+ writing reports, style suggestions, integrations, unlimited rephrases"
+        },
+        "premium_pro": {
+          "price": "$36/mo | $12/mo annual ($144/yr) | $699 lifetime",
+          "details": "Everything in Premium plus plagiarism checks, more AI features, priority support"
+        }
+      },
+
+      "tool_a_top_features": [
+        "Real-time grammar, spelling, and punctuation correction with inline suggestions",
+        "Tone detection and full-sentence rewrites for clarity and conciseness",
+        "Unlimited AI writing assistance (edits, rewrites, generation) on Pro plan",
+        "Plagiarism detection included in all paid plans",
+        "Works everywhere: browser extension, desktop app, MS Office, Google Docs, mobile keyboard"
+      ],
+      "tool_b_top_features": [
+        "25+ in-depth writing reports (readability, pacing, sentence structure, overused words, etc.)",
+        "Manuscript-level analysis with chapter critiques and Virtual Beta Reader",
+        "Lifetime purchase option ($399 Premium / $699 Premium Pro) -- no recurring fees",
+        "Style-specific suggestions for fiction, academic, and business writing",
+        "Integrations with Scrivener, Google Docs, MS Word, and browser extension"
+      ],
+
+      "tool_a_pros": [
+        "Clean, intuitive interface with zero learning curve",
+        "Unlimited AI edits on Pro -- far more generous than ProWritingAid's daily limits",
+        "Broadest platform coverage: browser, desktop, mobile, email, social media",
+        "Plagiarism detection included in paid plans without extra cost"
+      ],
+      "tool_b_pros": [
+        "Lifetime plan eliminates recurring costs entirely ($399 one-time)",
+        "25+ detailed reports give serious writers deep insights Grammarly cannot match",
+        "Manuscript and fiction-specific features (pacing, dialogue, readability) for authors",
+        "Significantly cheaper annually ($120/yr vs Grammarly's $144/yr)"
+      ],
+
+      "tool_a_cons": [
+        "More expensive than ProWritingAid, especially long-term (no lifetime option)",
+        "Style suggestions can prioritize clarity over preserving creative voice",
+        "Advanced features locked behind Pro; free plan is very basic"
+      ],
+      "tool_b_cons": [
+        "AI tools are a step behind Grammarly in speed and polish",
+        "No mobile app (iOS/Android) -- limited to desktop and browser",
+        "Interface feels cluttered compared to Grammarly's clean design"
+      ],
+
+      "tool_a_best_for": "Professionals, students, and everyday writers who want a polished, set-it-and-forget-it writing assistant that works everywhere.",
+      "tool_b_best_for": "Novelists, academic writers, and long-form authors who want deep style analysis, detailed reports, and a one-time lifetime payment.",
+
+      "quick_verdict": "Grammarly is the better pick for most people -- it is easier to use, works on more platforms, and catches errors in real time with no friction. ProWritingAid is the writer's tool: its 25+ reports and manuscript analysis are unmatched for authors working on novels, theses, or long-form content. If you are a casual writer, go Grammarly. If you are a serious author and want to save money long-term, ProWritingAid's lifetime plan is a smart investment."
+    },
+
+    {
+      "id": 4,
+      "tool_a": "Midjourney",
+      "tool_b": "DALL-E 3",
+      "category": "AI Image Generation",
+
+      "tool_a_pricing": {
+        "basic": {
+          "price": "$10/mo ($8/mo annual)",
+          "details": "~3.3 hrs fast GPU time, ~200 generations/mo, no Relax mode"
+        },
+        "standard": {
+          "price": "$30/mo ($24/mo annual)",
+          "details": "15 hrs fast GPU time, unlimited Relax mode generations (most popular plan)"
+        },
+        "pro": {
+          "price": "$60/mo ($48/mo annual)",
+          "details": "30 hrs fast GPU time, Stealth mode (images stay private), unlimited Relax mode"
+        },
+        "mega": {
+          "price": "$120/mo ($96/mo annual)",
+          "details": "60 hrs fast GPU time, Stealth mode, unlimited Relax mode, max concurrency"
+        }
+      },
+      "tool_b_pricing": {
+        "free_via_chatgpt": {
+          "price": "$0",
+          "details": "Up to 3 images/day via free ChatGPT tier, limited resolution"
+        },
+        "chatgpt_plus": {
+          "price": "$20/mo (included with ChatGPT Plus)",
+          "details": "Higher generation limits, DALL-E 3 access alongside GPT-4o, 2 images per request"
+        },
+        "api": {
+          "price": "Pay-per-image: $0.04 (standard) / $0.08 (HD) per image",
+          "details": "Direct API access, up to 1792px resolution, no subscription needed"
+        }
+      },
+
+      "tool_a_top_features": [
+        "Industry-leading artistic and photorealistic image quality",
+        "Advanced editing: Vary Region, zoom, pan, remix, style reference, character reference",
+        "Stealth mode on Pro+ plans keeps images private from public gallery",
+        "Unlimited generations in Relax mode on Standard+ plans",
+        "Strong community and prompt-sharing ecosystem"
+      ],
+      "tool_b_top_features": [
+        "Deeply integrated into ChatGPT -- generate images conversationally with natural language",
+        "Superior text rendering in images (logos, signs, mockups)",
+        "High prompt fidelity -- follows instructions literally and accurately",
+        "Inpainting for editing specific parts of generated images",
+        "Free access via ChatGPT (up to 3 images/day) and affordable API pricing"
+      ],
+
+      "tool_a_pros": [
+        "Best-in-class image quality with a distinctive artistic aesthetic",
+        "Most advanced editing and variation tools (style ref, character ref, region vary)",
+        "Unlimited generations on Relax mode make it very cost-effective at scale",
+        "Consistent, cohesive visual style ideal for branding and creative projects"
+      ],
+      "tool_b_pros": [
+        "Free tier available -- the only major AI image gen with a no-cost option",
+        "Best text-in-image rendering on the market (great for logos and mockups)",
+        "Seamless ChatGPT integration means no new tool to learn",
+        "API pricing ($0.04-$0.08/image) is extremely affordable for developers"
+      ],
+
+      "tool_a_cons": [
+        "No free tier or trial -- you must pay to generate even one image",
+        "Steeper learning curve; prompt engineering matters more for best results",
+        "Primarily accessed through Discord or the web app (no ChatGPT-style integration)"
+      ],
+      "tool_b_cons": [
+        "Image quality and artistic depth trail Midjourney, especially for photorealism",
+        "Limited editing tools compared to Midjourney's variation and remix capabilities",
+        "Tends to follow prompts too literally, sometimes lacking creative flair"
+      ],
+
+      "tool_a_best_for": "Designers, artists, and creative professionals who need the highest quality AI-generated images with deep control over style and composition.",
+      "tool_b_best_for": "Anyone who wants quick, accurate image generation integrated into ChatGPT, especially for mockups, text-heavy designs, and casual use.",
+
+      "quick_verdict": "Midjourney produces the most visually stunning AI images available and offers the deepest editing toolkit, but you need a paid plan to use it at all. DALL-E 3 is the accessible choice -- it is free via ChatGPT, follows prompts faithfully, and handles text in images far better. Choose Midjourney for professional creative work; choose DALL-E 3 for convenience, accuracy, and budget-friendly generation."
+    },
+
+    {
+      "id": 5,
+      "tool_a": "Descript",
+      "tool_b": "CapCut",
+      "category": "Video Editing",
+
+      "tool_a_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "1 hr transcription, 5 min AI speech, 720p exports, basic editing tools"
+        },
+        "hobbyist": {
+          "price": "$24/mo ($16/mo annual)",
+          "details": "10 hrs transcription, 1080p exports, filler word removal, basic AI features"
+        },
+        "creator": {
+          "price": "$33/mo ($24/mo annual)",
+          "details": "30 hrs transcription, 2 hrs AI speech (Overdub), 4K exports, advanced AI features"
+        },
+        "business": {
+          "price": "$75/mo ($50/mo annual)",
+          "details": "40 hrs transcription, 5 hrs AI speech, team collaboration, brand voice cloning, multi-language translation, priority support"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "Dedicated support, advanced security, custom onboarding"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Full basic editing suite, 1080p export, no watermark, multi-track timeline, keyframe animation, chroma key"
+        },
+        "pro": {
+          "price": "$9.99/mo ($89.99/yr typical, varies by region)",
+          "details": "Premium effects, templates, fonts, stickers, advanced AI tools, cloud storage, priority processing. Prices vary by region and platform."
+        }
+      },
+
+      "tool_a_top_features": [
+        "Text-based video editing: edit video by editing the transcript like a document",
+        "Overdub AI voice cloning: generate narration in your own voice from text",
+        "Automatic filler word removal (um, uh, like) with one click",
+        "Studio Sound: AI-powered audio enhancement and noise removal",
+        "Multi-language translation and automatic captioning"
+      ],
+      "tool_b_top_features": [
+        "Massive library of trending effects, transitions, filters, and templates",
+        "Auto-captions with customizable styles optimized for social platforms",
+        "Mobile-first editing with full-featured iOS and Android apps",
+        "Free tier includes all core editing tools at 1080p with no watermark",
+        "Platform-specific export presets for TikTok, Instagram Reels, YouTube Shorts"
+      ],
+
+      "tool_a_pros": [
+        "Text-based editing is a game-changer for podcasts, interviews, and talking-head content",
+        "AI voice cloning (Overdub) lets you fix mistakes or add narration without re-recording",
+        "Automatic filler word and silence removal saves hours of manual editing",
+        "Best-in-class transcription accuracy across 20+ languages"
+      ],
+      "tool_b_pros": [
+        "The most generous free tier in video editing -- 1080p, no watermark, full toolset",
+        "Intuitive drag-and-drop interface perfect for beginners",
+        "Mobile app is fully featured, enabling professional editing on the go",
+        "Huge trending template library keeps social content current"
+      ],
+
+      "tool_a_cons": [
+        "Free plan is very limited (720p, 1 hr transcription)",
+        "No full-featured mobile app -- primarily desktop and web",
+        "More expensive than CapCut for similar output quality on short-form content"
+      ],
+      "tool_b_cons": [
+        "No text-based editing or transcription-powered workflow",
+        "Limited advanced features for long-form content (podcasts, documentaries)",
+        "AI features (beyond captions) are mostly locked behind Pro plan"
+      ],
+
+      "tool_a_best_for": "Podcasters, interviewers, and content creators who work with dialogue-heavy content and want to edit video as easily as editing a text document.",
+      "tool_b_best_for": "Social media creators who need fast, intuitive, mobile-friendly editing with trendy effects and templates -- especially on a budget.",
+
+      "quick_verdict": "These tools solve different problems. Descript is built for spoken-word content: its text-based editing and AI voice tools are unmatched for podcasts, interviews, and webinars. CapCut is built for social media: it is free, mobile-first, and loaded with trending templates and effects. If your content is talking-head or audio-driven, Descript. If you are making Reels, TikToks, or Shorts, CapCut."
+    },
+
+    {
+      "id": 6,
+      "tool_a": "Beehiiv",
+      "tool_b": "Substack",
+      "category": "Newsletter Platform",
+
+      "tool_a_pricing": {
+        "launch_free": {
+          "price": "$0",
+          "details": "Up to 2,500 subscribers, unlimited sends, custom domain, website, analytics, 1 publication"
+        },
+        "scale": {
+          "price": "$49/mo ($43/mo annual)",
+          "details": "Up to 100K subscribers, monetization tools (paid subscriptions + ad network), advanced analytics, priority support, 3 publications, referral program"
+        },
+        "max": {
+          "price": "$109/mo ($96/mo annual)",
+          "details": "Everything in Scale plus remove Beehiiv branding, up to 10 publications, advanced segmentation, priority support"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "Dedicated IP, white-label options, custom integrations, account manager"
+        }
+      },
+      "tool_b_pricing": {
+        "free_for_creators": {
+          "price": "$0 platform fee",
+          "details": "Free to publish. Substack takes 10% of paid subscription revenue + Stripe fees (~2.9% + $0.30). Free newsletters cost nothing."
+        },
+        "substack_pro": {
+          "price": "Invite-only / custom terms",
+          "details": "Financial advances, custom domains, podcasting tools, advanced analytics. Only available to established creators."
+        }
+      },
+
+      "tool_a_top_features": [
+        "Built-in ad network: monetize even free newsletters by connecting with brand sponsors",
+        "Referral program and recommendation network for organic growth",
+        "Advanced subscriber segmentation and automation workflows",
+        "SEO-optimized web pages -- every post is a searchable blog post",
+        "API access and native integrations for custom workflows"
+      ],
+      "tool_b_top_features": [
+        "Built-in audience discovery via Substack Notes and recommendation engine",
+        "Simple, distraction-free writing interface focused on the content",
+        "Podcast hosting built in for multimedia newsletters",
+        "Community features: comments, discussions, and reader engagement",
+        "Zero upfront cost -- only pay when you earn (revenue share model)"
+      ],
+
+      "tool_a_pros": [
+        "No revenue cut -- you keep 100% of paid subscription income (flat monthly fee instead)",
+        "Multiple monetization paths: paid subs, ad network, referral boosts",
+        "Stronger growth and analytics tools with deep subscriber segmentation",
+        "Better SEO: posts rank in Google, driving organic discovery"
+      ],
+      "tool_b_pros": [
+        "Zero cost to start and zero cost if you never charge readers",
+        "Built-in network effect: Substack's recommendation engine surfaces your work to new readers",
+        "The simplest setup of any newsletter platform -- publish in minutes",
+        "Strong community and social features with Substack Notes"
+      ],
+
+      "tool_a_cons": [
+        "Free plan is limited to 2,500 subscribers; growth requires a paid plan",
+        "More complex setup than Substack's dead-simple interface",
+        "Smaller existing audience network compared to Substack's built-in discovery"
+      ],
+      "tool_b_cons": [
+        "10% revenue cut adds up fast -- at $10K/mo revenue, that is $1,000/mo to Substack",
+        "No API, no native integrations, no automation -- very limited customization",
+        "Limited analytics and no subscriber segmentation compared to Beehiiv"
+      ],
+
+      "tool_a_best_for": "Creators who want to build a newsletter business with multiple revenue streams, growth tools, and full control over their brand and data.",
+      "tool_b_best_for": "Writers who want the simplest possible setup with zero upfront cost and a built-in audience discovery network.",
+
+      "quick_verdict": "Substack is the easiest way to start a newsletter -- it costs nothing, sets up in minutes, and has a built-in audience network that can surface your work. Beehiiv is the better business platform: it keeps 100% of your revenue, offers an ad network for free newsletters, and gives you real growth and analytics tools. Choose Substack if simplicity and network discovery matter most; choose Beehiiv if you are building a newsletter as a real business."
+    },
+
+    {
+      "id": 7,
+      "tool_a": "Leadpages",
+      "tool_b": "Carrd",
+      "category": "Landing Page Builder",
+
+      "tool_a_pricing": {
+        "standard": {
+          "price": "$49/mo ($37/mo annual)",
+          "details": "5 landing pages, 1 custom domain, drag-and-drop builder, pop-ups, alert bars, email integrations"
+        },
+        "pro": {
+          "price": "$99/mo ($74/mo annual)",
+          "details": "Unlimited landing pages, 3 custom domains, A/B testing, online payments and sales"
+        },
+        "conversion": {
+          "price": "$697/mo",
+          "details": "50 custom domains, dedicated conversion team, done-for-you page builds and management"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Up to 3 sites, .carrd.co subdomain, 'Made with Carrd' branding, core design features"
+        },
+        "pro_lite": {
+          "price": "$9/year",
+          "details": "3 sites, no Carrd branding, Google Analytics support"
+        },
+        "pro_standard": {
+          "price": "$19/year",
+          "details": "10 sites, custom domains with SSL, forms (email, Mailchimp, etc.), embeds, widgets"
+        },
+        "pro_plus": {
+          "price": "$49/year",
+          "details": "25 sites, custom forms, advanced settings, downloadable source files, all Pro features"
+        }
+      },
+
+      "tool_a_top_features": [
+        "Drag-and-drop builder with 200+ conversion-optimized templates",
+        "Built-in A/B split testing to optimize page performance (Pro plan)",
+        "Pop-ups, alert bars, and opt-in forms for lead capture",
+        "Native integrations with major email platforms (Mailchimp, ConvertKit, HubSpot, etc.)",
+        "Built-in payment processing for selling digital products and services"
+      ],
+      "tool_b_top_features": [
+        "Extremely affordable: $19/year for custom domains and forms",
+        "Clean, modern, responsive one-page site builder",
+        "Simple interface -- build and publish a site in under 30 minutes",
+        "Custom domain support with free SSL on Pro Standard+",
+        "Form integrations with Mailchimp, Google Sheets, Airtable, etc."
+      ],
+
+      "tool_a_pros": [
+        "A/B testing and conversion analytics let you optimize pages based on real data",
+        "Built-in payment processing turns landing pages into sales pages",
+        "200+ industry-specific templates designed for conversions",
+        "Pop-ups and alert bars add lead capture without a separate tool"
+      ],
+      "tool_b_pros": [
+        "Unbeatable price -- full-featured site builder for $19/year vs Leadpages' $444+/year",
+        "Dead simple to use; no design skills needed",
+        "Perfect for personal sites, link-in-bio pages, simple portfolios, and MVPs",
+        "Sites are fast, clean, and mobile-responsive by default"
+      ],
+
+      "tool_a_cons": [
+        "Expensive starting at $37/mo annual -- hard to justify for simple pages",
+        "Standard plan limits you to 5 landing pages and 1 domain",
+        "Overkill for anyone who just needs a simple web presence"
+      ],
+      "tool_b_cons": [
+        "No A/B testing, no advanced analytics, no conversion optimization tools",
+        "One-page sites only -- cannot build multi-page websites",
+        "Very limited integrations compared to Leadpages"
+      ],
+
+      "tool_a_best_for": "Marketers and small businesses who need conversion-optimized landing pages with A/B testing, payment processing, and lead capture tools.",
+      "tool_b_best_for": "Solopreneurs, freelancers, and side-hustlers who need a simple, beautiful one-page site for under $20/year.",
+
+      "quick_verdict": "These tools serve completely different markets. Leadpages is a full marketing landing page platform with A/B testing, payment processing, and conversion analytics -- built for marketers who optimize for results. Carrd is a $19/year one-page site builder that does one thing extremely well: get a clean, responsive page live in minutes. If you need marketing features and conversion data, Leadpages. If you need a simple web presence at the lowest possible cost, Carrd is unbeatable."
+    },
+
+    {
+      "id": 8,
+      "tool_a": "HubSpot",
+      "tool_b": "Brevo",
+      "category": "CRM / Email Marketing",
+
+      "tool_a_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Up to 2 users, 1M contacts, 2,000 emails/mo, basic CRM (contacts, deals, tasks), forms, live chat"
+        },
+        "starter": {
+          "price": "$20/mo per seat ($15/seat annual)",
+          "details": "All hubs included, remove HubSpot branding, simple automation, email health insights"
+        },
+        "professional_marketing": {
+          "price": "$890/mo (2,000 marketing contacts)",
+          "details": "Full marketing automation, A/B testing, custom reporting, SEO tools, social media. Required $3,000 onboarding fee."
+        },
+        "enterprise_marketing": {
+          "price": "$3,600/mo (10,000 marketing contacts)",
+          "details": "Advanced reporting, custom objects, predictive lead scoring, multi-touch revenue attribution"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "100K contacts, 300 emails/day (~9,000/mo), basic email editor, forms, basic automation"
+        },
+        "starter": {
+          "price": "From $9/mo",
+          "details": "5,000 emails/mo, no daily sending limit, no Brevo branding, basic reporting"
+        },
+        "standard": {
+          "price": "From $18/mo",
+          "details": "Basic automation, A/B testing, advanced statistics"
+        },
+        "professional": {
+          "price": "From $499/mo",
+          "details": "Marketing automation, multi-user access, sub-account management, advanced integrations"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "Dedicated IP, priority support, unlimited contacts, advanced security, SLA"
+        }
+      },
+
+      "tool_a_top_features": [
+        "All-in-one platform: CRM, marketing, sales, service, and CMS in one ecosystem",
+        "Advanced marketing automation with visual workflow builder",
+        "Lead scoring and predictive analytics for sales pipeline optimization",
+        "Deep reporting and custom dashboards across all hubs",
+        "Massive integration marketplace (1,500+ apps)"
+      ],
+      "tool_b_top_features": [
+        "Email AND SMS/WhatsApp marketing in one platform at affordable prices",
+        "Generous free plan: 300 emails/day with 100K contacts",
+        "Visual automation builder with pre-built workflows",
+        "Transactional email and SMTP relay included",
+        "Detailed email analytics with heatmaps and click-per-link tracking"
+      ],
+
+      "tool_a_pros": [
+        "Best free CRM on the market with unlimited contacts and a real sales pipeline",
+        "True all-in-one platform eliminates the need for multiple tools",
+        "Extremely mature lead management, scoring, and segmentation",
+        "1,500+ integrations cover virtually any tool stack"
+      ],
+      "tool_b_pros": [
+        "Dramatically cheaper than HubSpot at every paid tier",
+        "Built-in SMS and WhatsApp campaigns without add-ons",
+        "Free plan allows 100K contacts (HubSpot free allows 1M but with tighter email limits)",
+        "Pay-by-email-volume pricing is more predictable and budget-friendly"
+      ],
+
+      "tool_a_cons": [
+        "Massive price jump from Starter ($20/seat) to Professional ($890/mo)",
+        "Mandatory onboarding fees ($1,500-$3,000) on Professional and Enterprise",
+        "Can get very expensive very fast as you add contacts and features"
+      ],
+      "tool_b_cons": [
+        "CRM is basic -- lacks lead scoring, custom objects, and advanced pipeline management",
+        "Not a true all-in-one platform; limited sales and service features",
+        "Automation and reporting are less sophisticated than HubSpot's"
+      ],
+
+      "tool_a_best_for": "Growing businesses that want a single platform for CRM, marketing, sales, and service -- and have the budget to scale into Professional tier.",
+      "tool_b_best_for": "Small businesses and startups that need affordable email and SMS marketing with a solid free plan and no massive price jumps.",
+
+      "quick_verdict": "HubSpot is the enterprise-grade all-in-one platform with the best free CRM on the market, but its paid tiers get expensive fast (especially the $890/mo Professional jump). Brevo is the budget-friendly alternative that excels at email and SMS marketing with simple, volume-based pricing. Choose HubSpot if you want a unified CRM + marketing + sales stack. Choose Brevo if you primarily need email/SMS marketing without breaking the bank."
+    },
+
+    {
+      "id": 9,
+      "tool_a": "Canva",
+      "tool_b": "Adobe Express",
+      "category": "Graphic Design",
+
+      "tool_a_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "250,000+ templates, 1M+ stock photos, 5GB storage, basic design tools, drag-and-drop editor"
+        },
+        "pro": {
+          "price": "$15/mo ($120/yr) per user",
+          "details": "100M+ stock images, 100GB storage, Brand Kit, Background Remover, Magic Resize, premium templates, Magic Studio AI tools"
+        },
+        "teams": {
+          "price": "$10/user/mo ($100/user/yr, min 3 users)",
+          "details": "Everything in Pro plus team collaboration, brand controls, shared templates, centralized billing"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "SSO, SCIM, advanced admin tools, multi-team control, 24/7 support, custom integrations"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "100,000+ templates, 1M+ royalty-free Adobe Stock assets, 4,000 fonts, 5GB storage, 25 generative AI credits/mo"
+        },
+        "premium": {
+          "price": "$9.99/mo ($99.99/yr)",
+          "details": "All templates, 200M+ Adobe Stock assets, 25,000+ fonts, 100GB storage, 250 generative AI credits/mo, premium features"
+        },
+        "teams": {
+          "price": "Custom pricing",
+          "details": "On-brand content at scale, advanced collaboration, security, more AI credits"
+        },
+        "enterprise": {
+          "price": "Custom pricing",
+          "details": "Enterprise-grade admin, compliance, and security features"
+        }
+      },
+
+      "tool_a_top_features": [
+        "Magic Studio AI suite: Magic Write, Magic Edit, Magic Eraser, text-to-image generation",
+        "Brand Kit for consistent branding across all designs (colors, fonts, logos)",
+        "Magic Resize: instantly reformat designs for any platform (Instagram, Facebook, LinkedIn, etc.)",
+        "Massive template library (250K+ free, more on Pro) across every design category",
+        "Built-in video editor, presentation maker, and print design tools"
+      ],
+      "tool_b_top_features": [
+        "Adobe Firefly generative AI integration for image generation and editing",
+        "Quick Actions: one-click background removal, file conversion, image resizing",
+        "25,000+ fonts (vs Canva's ~2,000) for superior typography options",
+        "Seamless integration with Adobe Creative Cloud (Photoshop, Illustrator, etc.)",
+        "Layer-preserving PDF exports for professional handoff to print or Illustrator"
+      ],
+
+      "tool_a_pros": [
+        "Easiest design tool to learn -- true zero-skill-required interface",
+        "Largest template library of any design platform",
+        "All-in-one: graphics, video, presentations, print, websites in one tool",
+        "Free for students, teachers, and nonprofits (Pro-level access)"
+      ],
+      "tool_b_pros": [
+        "Cheaper Premium plan ($9.99/mo vs Canva Pro's $15/mo)",
+        "Adobe Firefly AI produces high-quality generative content with commercial licensing",
+        "Superior font library (25,000+ vs ~2,000) and typography control",
+        "Tight integration with Adobe ecosystem for professional workflows"
+      ],
+
+      "tool_a_cons": [
+        "Limited advanced design capabilities -- not a replacement for Photoshop or Illustrator",
+        "AI features (Magic Studio) quality trails Adobe Firefly",
+        "Pro pricing increased from $13/mo to $15/mo in late 2025"
+      ],
+      "tool_b_cons": [
+        "Smaller template library and community compared to Canva",
+        "300MB file upload limit on all plans",
+        "Less intuitive interface -- slightly steeper learning curve than Canva"
+      ],
+
+      "tool_a_best_for": "Non-designers, solopreneurs, and small teams who need to create professional-looking graphics, social posts, and presentations quickly without design skills.",
+      "tool_b_best_for": "Users already in the Adobe ecosystem who want a lighter design tool with superior typography, AI generation, and seamless Creative Cloud integration.",
+
+      "quick_verdict": "Canva remains the king of accessible design -- it has the biggest template library, the easiest interface, and the widest feature set (graphics, video, presentations, websites). Adobe Express fights back with a lower price point, 25,000+ fonts, Adobe Firefly AI, and tight Creative Cloud integration. For most people, Canva is the better standalone tool. If you already use Adobe products or need professional typography and AI image generation, Adobe Express offers better value at $9.99/mo."
+    },
+
+    {
+      "id": 10,
+      "tool_a": "ChatGPT Plus",
+      "tool_b": "Claude Pro",
+      "category": "AI Assistant",
+
+      "tool_a_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Access to GPT-4o mini, limited GPT-4o access, basic web browsing, limited file uploads"
+        },
+        "plus": {
+          "price": "$20/mo",
+          "details": "Full GPT-4o and GPT-4o-mini access, DALL-E 3 image generation, Advanced Data Analysis, web browsing, custom GPTs, Sora video (limited), Canvas"
+        },
+        "pro": {
+          "price": "$200/mo",
+          "details": "Unlimited access to all models including o1, higher rate limits, extended thinking, priority access"
+        },
+        "team": {
+          "price": "$30/user/mo ($25/user annual)",
+          "details": "Higher message caps, admin console, shared workspace, data not used for training"
+        }
+      },
+      "tool_b_pricing": {
+        "free": {
+          "price": "$0",
+          "details": "Access to Claude Sonnet, basic web search, limited daily messages, image analysis"
+        },
+        "pro": {
+          "price": "$20/mo ($17/mo annual at $200/yr)",
+          "details": "5x more usage than free, Claude Code (CLI tool), extended thinking, projects, Google Workspace integration, remote MCP connectors, research tools"
+        },
+        "max": {
+          "price": "$100/mo (5x) or $200/mo (20x)",
+          "details": "All Pro features plus 5x or 20x Pro usage, persistent memory, early access to new features, priority access"
+        },
+        "team": {
+          "price": "$30/user/mo ($25/user annual)",
+          "details": "Core collaboration, projects, higher usage, admin controls"
+        }
+      },
+
+      "tool_a_top_features": [
+        "DALL-E 3 image generation and Sora video creation built in",
+        "Advanced Data Analysis: upload files, run Python code, create charts and visualizations",
+        "Custom GPTs: thousands of community-built specialized assistants for any niche",
+        "Canvas: collaborative document and code editing interface",
+        "Web browsing with real-time information access and source citations"
+      ],
+      "tool_b_top_features": [
+        "200K token context window (6x larger than ChatGPT Plus's 32K) for processing long documents",
+        "Claude Code: CLI tool that reads project files, runs commands, and makes code changes autonomously",
+        "Extended thinking mode for complex reasoning and multi-step analysis",
+        "Projects: organize documents and conversations for persistent context",
+        "Google Workspace integration and remote MCP connectors for tool integration"
+      ],
+
+      "tool_a_pros": [
+        "Most versatile AI assistant: text, images, video, code, data analysis, web search all in one",
+        "Massive ecosystem of custom GPTs for specialized tasks",
+        "DALL-E 3 and Sora give it unmatched multimodal generation capabilities",
+        "Canvas mode for collaborative document and code editing"
+      ],
+      "tool_b_pros": [
+        "Superior writing quality: more natural, nuanced, and human-sounding output",
+        "200K context window handles entire codebases, long documents, and books",
+        "Claude Code is the best AI coding assistant available as a CLI tool",
+        "Annual billing option ($200/yr = $17/mo) makes it cheaper than ChatGPT Plus"
+      ],
+
+      "tool_a_cons": [
+        "32K context window limits handling of very long documents",
+        "Writing style can feel formulaic and 'AI-like' without careful prompting",
+        "No annual billing discount available for Plus plan"
+      ],
+      "tool_b_cons": [
+        "No native image or video generation capabilities",
+        "Stricter usage limits; can hit caps during heavy use",
+        "Fewer multimodal features overall compared to ChatGPT's breadth"
+      ],
+
+      "tool_a_best_for": "Users who want the widest range of AI capabilities in one subscription: text, image generation, video, code, data analysis, and a custom GPT ecosystem.",
+      "tool_b_best_for": "Developers, writers, and professionals who prioritize writing quality, long-document processing, and autonomous coding assistance over multimodal breadth.",
+
+      "quick_verdict": "ChatGPT Plus is the Swiss Army knife -- it does everything (text, images, video, code, data analysis) and has a massive custom GPT ecosystem. Claude Pro is the specialist: its writing is more natural, its 200K context window handles much longer documents, and Claude Code is the best AI coding tool available. Choose ChatGPT Plus for breadth and multimodal features. Choose Claude Pro for writing quality, coding, and working with long documents."
+    }
+  ]
+}

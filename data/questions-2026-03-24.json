@@ -1,0 +1,192 @@
+{
+  "generated": "2026-03-24T04:38:02.235270+00:00",
+  "params": {
+    "hours": 48,
+    "min_score": 1
+  },
+  "count": 14,
+  "questions": [
+    {
+      "title": "I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped",
+      "url": "https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/",
+      "subreddit": "artificial",
+      "score": 23,
+      "num_comments": 31,
+      "matched_patterns": [
+        "\\w+\\s+vs\\.?\\s+\\w+"
+      ],
+      "created_utc": 1774261768.0,
+      "created_iso": "2026-03-23T10:29:28+00:00",
+      "selftext_snippet": "I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before "
+    },
+    {
+      "title": "GPT 5.4 wins vs Claude Opus 4.6 in 1 vs. 1 coding battle w/ Claude as Judge",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1s1rt5p/gpt_54_wins_vs_claude_opus_46_in_1_vs_1_coding/",
+      "subreddit": "ChatGPT",
+      "score": 7,
+      "num_comments": 1,
+      "matched_patterns": [
+        "\\w+\\s+vs\\.?\\s+\\w+"
+      ],
+      "created_utc": 1774296133.0,
+      "created_iso": "2026-03-23T20:02:13+00:00",
+      "selftext_snippet": "I ran **many** 1 vs 1 coding battles of Claude Opus 4.6 (max thinking) vs GPT 5.4 (xhigh).  When GPT 5.4 is the judge -- Claude rarely wins.  Even when I trick GPT into thinking Claude is GPT -- GPT still wins.    Even when I make Gemini 3.1 pro the judge-- still GPT.\n\nThe scoring works as follows:\n"
+    },
+    {
+      "title": "Looking for a motivation buddy!",
+      "url": "https://www.reddit.com/r/productivity/comments/1s1tijo/looking_for_a_motivation_buddy/",
+      "subreddit": "productivity",
+      "score": 6,
+      "num_comments": 7,
+      "matched_patterns": [
+        "looking\\s+for\\s+(a\\s+)?"
+      ],
+      "created_utc": 1774299777.0,
+      "created_iso": "2026-03-23T21:02:57+00:00",
+      "selftext_snippet": "Starting today I am turning my life completely around! Going back to the gym, eating better, drinking more water, getting into routines again. I was wondering if there is anyone who wants to be my motivation buddy? We can update each other, seek motivation, ask advice? Thought it could be a cool ide"
+    },
+    {
+      "title": "Everyone is looking for friend here, just curious do you guys talk you chatgpt or claude like they are your friend or it's just me ?",
+      "url": "https://www.reddit.com/r/artificial/comments/1s1d7hp/everyone_is_looking_for_friend_here_just_curious/",
+      "subreddit": "artificial",
+      "score": 3,
+      "num_comments": 38,
+      "matched_patterns": [
+        "looking\\s+for\\s+(a\\s+)?"
+      ],
+      "created_utc": 1774262001.0,
+      "created_iso": "2026-03-23T10:33:21+00:00",
+      "selftext_snippet": "Im 24 m,and I really can't carry the conversation in real, so I find myself talking to chatgpt or claude I even tried to make myself ai companion but it's not that great ,just curious do you guys do like what I did ?"
+    },
+    {
+      "title": "17 y/o looking for online work – websites, thumbnails &amp; more",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1s1pq8o/17_yo_looking_for_online_work_websites_thumbnails/",
+      "subreddit": "smallbusiness",
+      "score": 2,
+      "num_comments": 3,
+      "matched_patterns": [
+        "looking\\s+for\\s+(a\\s+)?"
+      ],
+      "created_utc": 1774291712.0,
+      "created_iso": "2026-03-23T18:48:32+00:00",
+      "selftext_snippet": "Hey everyone 👋\n\nI’m 17 and looking for some online work or small gigs. I’ve been building my skills and can help with:\n\n* 🌐 Basic website creation (simple sites, landing pages)\n* 🎨 YouTube thumbnails &amp; graphic design\n* ✏️ Simple edits and content help\n* 💻 Other small digital tasks (open to learn"
+    },
+    {
+      "title": "PowerPoint alternative for remote teams",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s21o9g/powerpoint_alternative_for_remote_teams/",
+      "subreddit": "SaaS",
+      "score": 1,
+      "num_comments": 2,
+      "matched_patterns": [
+        "alternatives?\\s+for\\b"
+      ],
+      "created_utc": 1774319601.0,
+      "created_iso": "2026-03-24T02:33:21+00:00",
+      "selftext_snippet": "\r\n\nOur team is fully remote. Presentations happen over video calls, not in person.\r\n\nChanged what we need from presentation tools:\r\n\n● Export to PDF works fine (no .pptx needed)\r\n\n● Design matters but animations don't\r\n\n● Speed matters more than perfection\r\n\n● Collaboration happens async in docs, no"
+    },
+    {
+      "title": "Built a WhatsApp AI scheduling tool for clinics/spas — looking for advice on scaling through commission-based sales partners",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s216k5/built_a_whatsapp_ai_scheduling_tool_for/",
+      "subreddit": "SaaS",
+      "score": 1,
+      "num_comments": 2,
+      "matched_patterns": [
+        "looking\\s+for\\s+(a\\s+)?"
+      ],
+      "created_utc": 1774318254.0,
+      "created_iso": "2026-03-24T02:10:54+00:00",
+      "selftext_snippet": "Hey everyone — I'm the co-founder of Kyndra, a software company based in Colombia. One of our products, **KyndraCitas**, is a WhatsApp-based AI agent that handles appointment booking, confirmations, and rescheduling for clinics, spas, and service businesses.\n\n**The problem it solves:** these busines"
+    },
+    {
+      "title": "Am I crazy for considering switching from a top med device company as an ASR for an AI startup BDR role?",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s1zeer/am_i_crazy_for_considering_switching_from_a_top/",
+      "subreddit": "SaaS",
+      "score": 1,
+      "num_comments": 0,
+      "matched_patterns": [
+        "switch(ed|ing)?\\s+from\\b"
+      ],
+      "created_utc": 1774313612.0,
+      "created_iso": "2026-03-24T00:53:32+00:00",
+      "selftext_snippet": ""
+    },
+    {
+      "title": "Looking for SDRs to beta test a real-time cold call coaching tool",
+      "url": "https://www.reddit.com/r/SaaS/comments/1s1ww9b/looking_for_sdrs_to_beta_test_a_realtime_cold/",
+      "subreddit": "SaaS",
+      "score": 1,
+      "num_comments": 3,
+      "matched_patterns": [
+        "looking\\s+for\\s+(a\\s+)?"
+      ],
+      "created_utc": 1774307472.0,
+      "created_iso": "2026-03-23T23:11:12+00:00",
+      "selftext_snippet": "I've been building a tool called CuePitch that provides real-time coaching during sales calls. It listens to the conversation and surfaces suggested responses when a prospect raises objections — things like \"we already have a solution\" or \"not in the budget.\" The suggestions appear on your screen on"
+    },
+    {
+      "title": "Best platforms to find remote engineers? Here’s what worked for us",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1s1u801/best_platforms_to_find_remote_engineers_heres/",
+      "subreddit": "smallbusiness",
+      "score": 1,
+      "num_comments": 2,
+      "matched_patterns": [
+        "best\\s+\\w+.*?\\s+for\\b"
+      ],
+      "created_utc": 1774301316.0,
+      "created_iso": "2026-03-23T21:28:36+00:00",
+      "selftext_snippet": "We spent a few months trying to figure this out, and it was a lot messier than I expected.\n\nThere are plenty of platforms to hire remote engineers, but the experience depends a lot on what you’re actually optimizing for.\n\nHere’s how it played out for us:\n\n1. Marketplaces (Upwork, Freelancer, etc.)  "
+    },
+    {
+      "title": "Looking for Website Builder",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1s1t8am/looking_for_website_builder/",
+      "subreddit": "smallbusiness",
+      "score": 1,
+      "num_comments": 8,
+      "matched_patterns": [
+        "looking\\s+for\\s+(a\\s+)?"
+      ],
+      "created_utc": 1774299165.0,
+      "created_iso": "2026-03-23T20:52:45+00:00",
+      "selftext_snippet": "Hi all. I am looking to create a website for my personal blog/sports content creation and would love someone who has experience with website building to connect with me and work with me through building a website for this. I know what I want in the website, just have no experience with coding or des"
+    },
+    {
+      "title": "New Business Line VS New Personal Line for small business",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/1s1sa7s/new_business_line_vs_new_personal_line_for_small/",
+      "subreddit": "smallbusiness",
+      "score": 1,
+      "num_comments": 2,
+      "matched_patterns": [
+        "\\w+\\s+vs\\.?\\s+\\w+"
+      ],
+      "created_utc": 1774297147.0,
+      "created_iso": "2026-03-23T20:19:07+00:00",
+      "selftext_snippet": "So I have recently started my own small massage therapy business LLC and I am wanting to get a new line and phone for it. \n\nWhile comparing plans I saw that it was cheaper to get a new personal line vs a new business line. ​\n\nIs there any advantage to have a business line? \n\nAny disadvantages or rea"
+    },
+    {
+      "title": "Best AI chatbot for website - I tested 4 options over 3 months. Honest breakdown including where each one fell short.",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1s1tkh4/best_ai_chatbot_for_website_i_tested_4_options/",
+      "subreddit": "ChatGPT",
+      "score": 1,
+      "num_comments": 1,
+      "matched_patterns": [
+        "best\\s+\\w+.*?\\s+for\\b"
+      ],
+      "created_utc": 1774299890.0,
+      "created_iso": "2026-03-23T21:04:50+00:00",
+      "selftext_snippet": "The best AI chatbot for a website depends on your use case and budget. After testing Intercom, Tidio, Drift, and Chatbase over 3 months for the same job (customer support and lead capture on a SaaS marketing site), here's the honest breakdown of what each one actually does well and where each one fa"
+    },
+    {
+      "title": "ChatGPT vs Gemini with an unprompted quote from Blazing Saddles",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1s1gyy4/chatgpt_vs_gemini_with_an_unprompted_quote_from/",
+      "subreddit": "ChatGPT",
+      "score": 1,
+      "num_comments": 3,
+      "matched_patterns": [
+        "\\w+\\s+vs\\.?\\s+\\w+"
+      ],
+      "created_utc": 1774272734.0,
+      "created_iso": "2026-03-23T13:32:14+00:00",
+      "selftext_snippet": "I like to check on the state of things every few weeks with a random question or task. I’ll give the same prompt to different LLMs."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+tool_a,tool_b,category,tags,tool_a_price,tool_b_price,tool_a_free,tool_b_free,tool_a_best_for,tool_b_best_for,tool_a_link,tool_b_link
+GetResponse,ConvertKit,saas,"email,comparison,affiliate",33%/mo,30%/mo,Check website,Check website,see review,see review,getresponse.com,convertkit.com
+GetResponse,ActiveCampaign,saas,"email,comparison,affiliate",33%/mo,30%/mo,Check website,Check website,see review,see review,getresponse.com,activecampaign.com
+GetResponse,AWeber,saas,"email,comparison,affiliate",33%/mo,30%/mo,Check website,Check website,see review,see review,getresponse.com,aweber.com
+ConvertKit,ActiveCampaign,saas,"email,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,convertkit.com,activecampaign.com
+ConvertKit,AWeber,saas,"email,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,convertkit.com,aweber.com
+ActiveCampaign,AWeber,saas,"email,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,activecampaign.com,aweber.com
+Pipedrive,Calendly,saas,"saas,comparison,affiliate",33%/mo,25%/mo,Check website,Check website,see review,see review,pipedrive.com,calendly.com
+Copy.ai,Notion AI,ai-tools,"ai,comparison,affiliate",45%/mo,50%,Check website,Check website,see review,see review,copy.ai,notion.so
+Jasper,Notion AI,ai-tools,"ai,comparison,affiliate",30%/mo,50%,Check website,Check website,see review,see review,jasper.ai,notion.so
+Pipedrive,ClickUp,saas,"saas,comparison,affiliate",33%/mo,20%/mo,Check website,Check website,see review,see review,pipedrive.com,clickup.com
+GetResponse,Moosend,saas,"email,comparison,affiliate",33%/mo,30%/mo,Check website,Check website,see review,see review,getresponse.com,moosend.com
+Copy.ai,Writesonic,ai-tools,"ai,comparison,affiliate",45%/mo,30%/mo,Check website,Check website,see review,see review,copy.ai,writesonic.com
+Pipedrive,HubSpot,saas,"saas,comparison,affiliate",33%/mo,30%,Check website,Check website,see review,see review,pipedrive.com,hubspot.com
+Pipedrive,Zoho,saas,"saas,comparison,affiliate",33%/mo,15%/mo,Check website,Check website,see review,see review,pipedrive.com,zoho.com
+ConvertKit,Moosend,saas,"email,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,convertkit.com,moosend.com
+ActiveCampaign,Moosend,saas,"email,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,activecampaign.com,moosend.com
+AWeber,Moosend,saas,"email,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,aweber.com,moosend.com
+Jasper,Writesonic,ai-tools,"ai,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,jasper.ai,writesonic.com
+SpyFu,Semrush,saas,"seo,comparison,affiliate",40%/mo,0%/mo,Check website,Check website,see review,see review,spyfu.com,semrush.com
+Calendly,ClickUp,saas,"saas,comparison,affiliate",25%/mo,20%/mo,Check website,Check website,see review,see review,calendly.com,clickup.com
+SpyFu,Mangools,saas,"seo,comparison,affiliate",40%/mo,30%/mo,Check website,Check website,see review,see review,spyfu.com,mangools.com
+SpyFu,SE Ranking,saas,"seo,comparison,affiliate",40%/mo,30%/mo,Check website,Check website,see review,see review,spyfu.com,seranking.com
+Notion AI,Writesonic,ai-tools,"ai,comparison,affiliate",50%,30%/mo,Check website,Check website,see review,see review,notion.so,writesonic.com
+Calendly,HubSpot,saas,"saas,comparison,affiliate",25%/mo,30%,Check website,Check website,see review,see review,calendly.com,hubspot.com
+Calendly,Zoho,saas,"saas,comparison,affiliate",25%/mo,15%/mo,Check website,Check website,see review,see review,calendly.com,zoho.com
+Webflow,Squarespace,saas,"website-builder,comparison,affiliate",50%,30%,Check website,Check website,see review,see review,webflow.com,squarespace.com
+NordVPN,Surfshark,saas,"security,comparison,affiliate",40%,40%,Check website,Check website,see review,see review,nordvpn.com,surfshark.com
+Semrush,Mangools,saas,"seo,comparison,affiliate",0%/mo,30%/mo,Check website,Check website,see review,see review,semrush.com,mangools.com
+Semrush,SE Ranking,saas,"seo,comparison,affiliate",0%/mo,30%/mo,Check website,Check website,see review,see review,semrush.com,seranking.com
+ClickUp,HubSpot,saas,"saas,comparison,affiliate",20%/mo,30%,Check website,Check website,see review,see review,clickup.com,hubspot.com
+ClickUp,Zoho,saas,"saas,comparison,affiliate",20%/mo,15%/mo,Check website,Check website,see review,see review,clickup.com,zoho.com
+Mangools,SE Ranking,saas,"seo,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,mangools.com,seranking.com
+Teachable,Thinkific,saas,"education,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,teachable.com,thinkific.com
+Teachable,Podia,saas,"education,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,teachable.com,podia.com
+Thinkific,Podia,saas,"education,comparison,affiliate",30%/mo,30%/mo,Check website,Check website,see review,see review,thinkific.com,podia.com
+HubSpot,Zoho,saas,"saas,comparison,affiliate",30%,15%/mo,Check website,Check website,see review,see review,hubspot.com,zoho.com
