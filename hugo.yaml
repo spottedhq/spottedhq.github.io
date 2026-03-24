@@ -49,11 +49,11 @@ menu:
       name: AI Tools
       url: /categories/ai-tools/
       weight: 10
-    - identifier: saas
+    - identifier: saas-tools
       name: SaaS
       url: /categories/saas/
       weight: 20
-    - identifier: trending
+    - identifier: trending-products
       name: Trending Products
       url: /categories/trending/
       weight: 30
