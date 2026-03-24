@@ -13,7 +13,8 @@ Every week, we break down the tools and products worth your time — and the one
 
 No spam. No fluff. Just honest picks.
 
-<!-- Replace with Beehiiv embed code once account is created -->
-<div id="newsletter-signup">
-  <p><strong>Newsletter signup coming soon.</strong></p>
+<div style="text-align:center;margin:20px 0">
+  <a href="https://spottedhq.beehiiv.com/subscribe" target="_blank" style="display:inline-block;background:#2563eb;color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:16px;font-weight:600">Subscribe Free →</a>
 </div>
+
+<p style="text-align:center;color:#666;font-size:14px">Join for free. Unsubscribe anytime.</p>
