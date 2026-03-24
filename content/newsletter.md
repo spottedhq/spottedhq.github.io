@@ -13,8 +13,4 @@ Every week, we break down the tools and products worth your time — and the one
 
 No spam. No fluff. Just honest picks.
 
-<div style="text-align:center;margin:20px 0">
-  <a href="https://spottedhq.beehiiv.com/subscribe" target="_blank" style="display:inline-block;background:#2563eb;color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-size:16px;font-weight:600">Subscribe Free →</a>
-</div>
-
-<p style="text-align:center;color:#666;font-size:14px">Join for free. Unsubscribe anytime.</p>
+<iframe src="https://subscribe-forms.beehiiv.com/9388fd8d-6bc6-4b76-9acf-7b175b6928b5" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius:12px;margin:0 auto;display:block;background:transparent;max-width:533px;"></iframe>
