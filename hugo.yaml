@@ -55,6 +55,10 @@ menu:
       name: SaaS
       url: /categories/saas/
       weight: 20
+    - identifier: crypto
+      name: Crypto
+      url: /categories/crypto/
+      weight: 25
     - identifier: trending-products
       name: Trending Products
       url: /categories/trending/
